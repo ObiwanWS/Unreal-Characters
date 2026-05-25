@@ -2,7 +2,7 @@
 
 A centralized Unreal Engine plugin containing official Epic Games characters and animations. This plugin eliminates the repetitive workflow of migrating, exporting, importing, and retargeting standard assets every time a new project or prototype is created. 
 
-By dropping this plugin into a project, you immediately gain access to standard prototyping skeletons and animations without needing to start from specific engine templates or manually migrate content across projects.
+By dropping this plugin into a project, you gain access to standard prototyping skeletons and animations without needing to start from specific engine templates or manually migrate content across projects.
 
 ## Included Assets
 
@@ -21,11 +21,11 @@ By dropping this plugin into a project, you immediately gain access to standard 
 4.  Copy the plugin folder into the `Plugins` directory.
 6.  Open the Unreal Editor. 
 7.  Navigate to **Edit > Plugins** and ensure the plugin is enabled.
-8.  In the Content Browser, click the Settings icon and enable **Show Plugin Content** to access the mannequins and animations.
+8.  In the Content Browser, click the Settings icon and enable **Show Plugin Content** to access the content.
 
 ## Roadmap
 
-This library is intended to grow. Future updates will include additional characters, animation packs, and standard assets that Epic Games makes publicly available.
+This library is intended to grow. Future updates will include additional characters, animation packs, and standard assets that Epic Games makes or has made publicly available.
 
 ## Disclaimer
 
