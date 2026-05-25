@@ -1,0 +1,36 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Characters",
+	"Description": "Content plugin with characters and animations for prototyping.",
+	"Category": "Content",
+	"CreatedBy": "Obiwan Medeiros",
+	"CreatedByURL": "https://github.com/ObiwanWS",
+	"DocsURL": "https://github.com/ObiwanWS/Unreal-Characters",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/ObiwanWS/Unreal-Characters",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"NoCode": true,
+	"Plugins": [
+		{
+			"Name": "ACLPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationData",
+			"Enabled": true
+		},
+		{
+			"Name": "IKRig",
+			"Enabled": true
+		},
+		{
+			"Name": "SkeletalReduction",
+			"Enabled": true
+		}
+	]
+}
