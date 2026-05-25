@@ -31,6 +31,10 @@ This library is intended to grow. Future updates will include additional charact
 
 Since different games have very bespoke gameplay and animation logic, this plugin isn't aimed to provide starter character logic, only the assets to make one.
 
+Characters have been modified based on my interpretaion of how a protype character should be (less fluff and very performant for all platforms, including mobile).
+
+If you you'd like to see more other content added or contribute, please reach out.
+
 ---
 
 > **License & Usage Note:** This content still falls under Epic Games's EULA, be certain your use follows that criteria.
